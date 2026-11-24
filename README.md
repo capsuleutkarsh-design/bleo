@@ -31,7 +31,7 @@ Bleo is in beta. Install a new version over the old one; your settings and resum
 - **One-tap Enhance.** Tap the wand: a light sweeps across the video, and the picture gets crisper detail, richer colour and more depth.
 - **Better sound.** Clear voice, noise reduction and even volume. **Analyze & fix sound** listens to a few seconds and turns on only the fixes the sound needs.
 - **Library tools.** Select many videos to share, move, rename or delete together; sort by name, date, size or length; hide folders.
-- **Private folder.** Hide videos from every list, behind a PIN or your fingerprint.
+- **Private folder.** Videos move into a hidden `.bleo_Private` folder, so no gallery, player or file manager shows them; they open only with your PIN or fingerprint, and they stay safe even if you uninstall Bleo.
 - **Picture while seeking.** A small frame preview above the time as you swipe or drag.
 
 ## Screenshots
