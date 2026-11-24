@@ -25,10 +25,8 @@ Bleo is in beta. Install a new version over the old one; your settings and resum
 - **Tracks and subtitles.**
   - Switch audio tracks, add subtitle files, and set the subtitle colour, size, background, position and delay.
   - Audio delay, speed from 0.25× to 4×, A-B repeat, chapters and frame step.
-- **Enhance.**
-  - *Picture:* sharpen and vivid colours.
-  - *Sound:* clear voice, noise reduction and even volume.
-  - **Analyze & fix sound:** listens to a few seconds and turns on only the fixes the sound needs.
+- **One-tap Enhance.** Tap the wand: a light sweeps across the video, and the picture gets crisper detail, richer colour and more depth.
+- **Better sound.** Clear voice, noise reduction and even volume. **Analyze & fix sound** listens to a few seconds and turns on only the fixes the sound needs.
 - **Library tools.** Rename, delete, share, hide folders, sleep timer and screenshots to your gallery.
 
 ## Screenshots
@@ -37,7 +35,7 @@ Bleo is in beta. Install a new version over the old one; your settings and resum
 
 ![Bleo: next episode](screenshots/player-next-episode.webp)
 
-**Enhance: picture and sound**
+**One-tap Enhance**
 
 ![Bleo: enhance](screenshots/player-enhance.webp)
 
