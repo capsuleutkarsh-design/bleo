@@ -11,6 +11,9 @@ Bleo (said "BLAY-oh") is the Old English word *blēo*: colour, the look of thing
 Get the latest version from **[Releases](https://github.com/capsuleutkarsh-design/bleo/releases)**:
 
 - **Android 8 or newer:** `Bleo-<version>-android-arm64.apk` (almost every phone from the last 6 years).
+- **Older 32-bit phones:** `Bleo-<version>-android-armv7.apk`, if Android says the arm64 one isn't compatible.
+
+Website and guide: https://capsuleutkarsh-design.github.io/bleo/
 
 Bleo is in beta. Install a new version over the old one; your settings and resume points stay.
 
@@ -27,7 +30,9 @@ Bleo is in beta. Install a new version over the old one; your settings and resum
   - Audio delay, speed from 0.25× to 4×, A-B repeat, chapters and frame step.
 - **One-tap Enhance.** Tap the wand: a light sweeps across the video, and the picture gets crisper detail, richer colour and more depth.
 - **Better sound.** Clear voice, noise reduction and even volume. **Analyze & fix sound** listens to a few seconds and turns on only the fixes the sound needs.
-- **Library tools.** Rename, delete, share, hide folders, sleep timer and screenshots to your gallery.
+- **Library tools.** Select many videos to share, move, rename or delete together; sort by name, date, size or length; hide folders.
+- **Private folder.** Hide videos from every list, behind a PIN or your fingerprint.
+- **Picture while seeking.** A small frame preview above the time as you swipe or drag.
 
 ## Screenshots
 
